@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Juan José Ramírez # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
