@@ -8,7 +8,7 @@ username: "juan" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+npub: "npub1kce2jpe7svm6y2yknart4k4vd6cqxh22fcy06d7gyd2ayc64nggsw5r9z7" # Entre comillas dobles
 
 # Configuración Global
 html:
@@ -18,11 +18,11 @@ html:
 # Colores de plantilla
 theme:
   background_color: "#f9fafb"
-  # cover_color: "#ff7070"
+  cover_color: "#ff7070"
 
 # Configuración Central
 main:
-  title: Juan José Ramírez # Aca podes poner tu nombre o el de tu producto
+  title: Juan José # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
