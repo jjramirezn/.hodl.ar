@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: "juan" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-npub: "npub1kce2jpe7svm6y2yknart4k4vd6cqxh22fcy06d7gyd2ayc64nggsw5r9z7" # Entre comillas dobles
+nostr: # Sin el # adelante
+  npub: "npub1kce2jpe7svm6y2yknart4k4vd6cqxh22fcy06d7gyd2ayc64nggsw5r9z7" # Entre comillas dobles
 
 # Configuración Global
 html:
@@ -17,8 +17,8 @@ html:
 
 # Colores de plantilla
 theme:
-  background_color: "#f9fafb"
-  cover_color: "#ff7070"
+  background_color: "#0d1117"
+  cover_color: "#16b22"
 
 # Configuración Central
 main:
@@ -37,13 +37,12 @@ blocks:
 #   icon: twitter
 #   url: https://twitter.com/TU-USUARIO
     
- - title: LinkedIn # Este es el nombre del botón
-   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-   url: https://www.linkedin.com/in/jramireznieves/ # Link a donde redireccionará al hacer click
-
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+  - title: LinkedIn # Este es el nombre del botón
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+    url: https://www.linkedin.com/in/jramireznieves/ # Link a donde redireccionará al hacer click
+  - title: Github
+    icon: github
+    url: https://github.com/jjramirezn
 
 # - title: Sitio Web
 #   icon: url
