@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: "juan" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-nostr: # Sin el # adelante
-  npub: "npub1kce2jpe7svm6y2yknart4k4vd6cqxh22fcy06d7gyd2ayc64nggsw5r9z7" # Entre comillas dobles
+nostr:
+  npub: "npub1kce2jpe7svm6y2yknart4k4vd6cqxh22fcy06d7gyd2ayc64nggsw5r9z7"
 
 # Configuración Global
 html:
