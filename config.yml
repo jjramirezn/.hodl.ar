@@ -37,6 +37,9 @@ blocks:
 #   icon: twitter
 #   url: https://twitter.com/TU-USUARIO
     
+  - title: Nostr
+    icon: nostr
+    url: https://snort.social/p/npub1kce2jpe7svm6y2yknart4k4vd6cqxh22fcy06d7gyd2ayc64nggsw5r9z7
   - title: LinkedIn # Este es el nombre del botón
     icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
     url: https://www.linkedin.com/in/jramireznieves/ # Link a donde redireccionará al hacer click
